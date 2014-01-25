@@ -14,11 +14,11 @@ Recorded 1/22/14
 
 First BUILDS meeting of the semester---lots of new people!
 
-- Who We Are  
-  -Chris Woodall (cwoodall@bu.edu), president, senior, ECE
-  -Allan Wirth (wirtha@bu.edu), vice-president, junior, computer science
-  -George Silvis, III (gsilvis@bu.edu), secretary, senior, mathematics
-  -Andrew Mohn (amohn9@bu.edu), treasurer, senior, mathematics
+- Who We Are
+  - Chris Woodall (cwoodall@bu.edu), president, senior, ECE
+  - Allan Wirth (wirtha@bu.edu), vice-president, junior, computer science
+  - George Silvis, III (gsilvis@bu.edu), secretary, senior, mathematics
+  - Andrew Mohn (amohn9@bu.edu), treasurer, senior, mathematics
 
 - Past Events
   - MHack
