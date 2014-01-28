@@ -12,7 +12,7 @@ Winston Chen and Huy Le attended [MHacks III](http://www.mhacks.org/), hosted by
 
 Read on to hear more about MHacks and Winston and Huy's project.
 
-<!--more-->
+<!-- more -->
 
 # About MHacks III
 
