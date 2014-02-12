@@ -53,7 +53,7 @@ Recorded 1/29/14
 - Ongoing BUILDS Projects
   - BUILDSbot "Hatchling"
     - The smaller of our robots
-    - Organized by Nate (nheps@bu.edu ???????), who can't make it to meetings
+    - Organized by Nate (nhep23@bu.edu), who can't make it to meetings
     - We have a larger robot too, which will make progress once we sort out money
   - Chris's (cwoodall@bu.edu) LED tile, 8x8 edition
     - Plans exist, electronics aren't made yet
